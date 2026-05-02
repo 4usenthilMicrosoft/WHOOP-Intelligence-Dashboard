@@ -19,7 +19,7 @@ Before you begin, ensure you have the following:
 1.  **Node.js (v18 or higher):** [Download here](https://nodejs.org/).
 2.  **WHOOP Developer Account:** Create an app at the [WHOOP Developer Portal](https://developer.whoop.com/) to get your `CLIENT_ID` and `CLIENT_SECRET`.
     - **Redirect URI:** Set this to `http://localhost:3002/callback`.
-3.  **Google Gemini API Key:** Get a free API key from [Google AI Studio](https://aistudio.google.com/).
+3.  **Google Gemini API Key:** Get a free API key from [Google AI Studio](https://aistudio.google.com/). (Optional)
 
 ## 🚀 Setup Instructions
 
@@ -47,7 +47,7 @@ Create a `.env` file in the root directory (you can copy the `.env.template` pro
 ```env
 WHOOP_CLIENT_ID=your_whoop_client_id
 WHOOP_CLIENT_SECRET=your_whoop_client_secret
-GOOGLE_GEMINI_API_KEY=your_gemini_api_key
+GOOGLE_GEMINI_API_KEY=your_gemini_api_key(Optional)
 REDIRECT_URI=http://localhost:3002/callback
 PORT=3002
 COOKIE_SECRET=any_random_string
