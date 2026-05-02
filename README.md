@@ -3,7 +3,7 @@
 A high-performance health intelligence application that visualizes **WHOOP API v2** data and provides an **AI Performance Coach** powered by **Google Gemini 2.0 Flash**.
 
 ### 📺 UI Preview
-[Click to view the UI Demo](WHOOP-Intelligence-Dashboard.mp4)
+![WHOOP Intelligence Dashboard Demo](WHOOP-Intelligence-Dashboard.gif)
 
 ## 🌟 Features
 
