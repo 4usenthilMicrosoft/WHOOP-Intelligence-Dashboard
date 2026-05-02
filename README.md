@@ -2,7 +2,8 @@
 
 A high-performance health intelligence application that visualizes **WHOOP API v2** data and provides an **AI Performance Coach** powered by **Google Gemini 2.0 Flash**.
 
-![Dashboard Overview](Whoop1.jpeg)
+### 📺 UI Preview
+[Click to view the UI Demo](WHOOP-Intelligence-Dashboard.mp4)
 
 ## 🌟 Features
 
@@ -76,17 +77,6 @@ Visit `http://localhost:5173` to view the application.
 3.  **Insights:** Click on any card (Recovery, Strain, or Sleep) to see detailed trend charts and secondary metrics.
 4.  **AI Coach:** Type questions into the chat panel on the right (e.g., "How can I improve my recovery tonight?" or "Analyze my strain trends for the last week").
 5.  **Trends:** Use the "Trends" and "Workouts" tabs to switch between different data visualizations.
-
-## 📸 Screenshots
-
-### Main Dashboard
-![Dashboard](Whoop1.jpeg)
-
-### AI Coach & Insights
-![AI Coach](Whoop2.jpeg)
-
-### Sleep Analysis
-![Sleep Analysis](Whoop3.jpeg)
 
 ## 🛡️ Security Note
 This project uses `.gitignore` to ensure that your sensitive `.env` file is **never** committed to GitHub. Always keep your API keys private.
